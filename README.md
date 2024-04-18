@@ -8,3 +8,4 @@
 8. Program untuk Menyimpan dan Membaca data pada microSD
 9. Multi-Tasking Arduino Program: LED Patterns & Potentiometer Input
 10. Simulation of THERMAL SHUTDOWN in arduino
+11. esp32 control with telegram bot
