@@ -4,3 +4,7 @@
 4. Merespons pilihan yang dipilih pada LCD
 5. Counter otomatis dengan PWM sebagai keluaran digital dan LED untuk indikator
 6. Program COUNTER secara otomatis yang akan ditampilkan pada LCD
+7. program ALARM menggunakan RTC dengan pemberitahuan melalui serial UART
+8. Program untuk Menyimpan dan Membaca data pada microSD
+9. Multi-Tasking Arduino Program: LED Patterns & Potentiometer Input
+10. Simulation of THERMAL SHUTDOWN in arduino
